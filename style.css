@@ -1,0 +1,20 @@
+/* .jumbotron {
+    background-color:red;
+    height:100vh;
+    margin-bottom:0;
+    background-image:url("cheesecake.jpg");
+} */
+
+.custom-image{
+    background-color:red;
+    background-image:url("images/cheesecake.jpg");
+    height:100vh;
+    margin-bottom:0;
+    background-position:center;
+    background-size:cover;
+}
+
+.custom-text-post{
+    position:absolute;
+    top:50vh;
+}
